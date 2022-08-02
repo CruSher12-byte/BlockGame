@@ -1,5 +1,5 @@
 # BlockGame
-Created a 3D game that concentrates on providing a user-friendly and feel-good experience by allowing the user to explore the animation generated objects while also letting him interact with them as well. Additionally implemented a reward system through shiny collectible objects(coins) contributing to a score system.
+Created a 3D game that concentrates on providing a user-friendly and feel-good experience by allowing the user to explore the environment created using animated objects while also letting them interact with the obstacles as well. Additionally implemented a reward system through shiny collectible objects(coins) contributing to a score system.
 
 # Tools used:
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
